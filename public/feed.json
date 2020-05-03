@@ -1,0 +1,1163 @@
+{
+    "success": true,
+    "payload": {
+        "user": {
+            "userId": "b9427e490d49",
+            "name": "Owen McCall",
+            "username": "OwenMc",
+            "createdAt": 1531233805409,
+            "imageId": "2*85voGnlACTlIpxaWe_U1KA.png",
+            "backgroundImageId": "",
+            "bio": "Be healthy y’all",
+            "twitterScreenName": "",
+            "allowNotes": 1,
+            "mediumMemberAt": 0,
+            "isWriterProgramEnrolled": true,
+            "isSuspended": false,
+            "isMembershipTrialEligible": true,
+            "type": "User"
+        },
+        "streamItems": [{
+                "createdAt": 1585531275467,
+                "heading": {
+                    "text": "Latest",
+                    "heading": {
+                        "fallbackTitle": "Latest",
+                        "headingBasic": { "title": "Latest" },
+                        "headingType": "headingBasic"
+                    }
+                },
+                "randomId": "cfbcec94d43b",
+                "itemType": "heading",
+                "type": "StreamItem"
+            },
+            {
+                "createdAt": 1585531275468,
+                "postPreview": {
+                    "postId": "b006f285309c",
+                    "postSuggestionReasons": [{ "reason": 28 }]
+                },
+                "randomId": "f3060c7f5d75",
+                "itemType": "postPreview",
+                "type": "StreamItem"
+            },
+            {
+                "createdAt": 1585531275468,
+                "postPreview": {
+                    "postId": "5d9ce0c38859",
+                    "postSuggestionReasons": [{ "reason": 28 }]
+                },
+                "randomId": "73146e585f63",
+                "itemType": "postPreview",
+                "type": "StreamItem"
+            }
+        ],
+        "userMeta": {
+            "numberOfPostsPublished": 2,
+            "userId": "b9427e490d49",
+            "userSuggestionReason": {
+                "followeesWhoFollow": { "users": [] },
+                "reason": "followeesWhoFollow"
+            },
+            "collectionIds": ["3c350638cd7d"],
+            "authorTags": [{
+                    "slug": "blockchain",
+                    "name": "Blockchain",
+                    "postCount": 364875,
+                    "metadata": {
+                        "postCount": 364875,
+                        "coverImage": {
+                            "id": "1*ls2kI_Bn6HyV3pD6SqGmJA.jpeg",
+                            "originalWidth": 2000,
+                            "originalHeight": 666,
+                            "isFeatured": true
+                        }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "productivity",
+                    "name": "Productivity",
+                    "postCount": 121579,
+                    "metadata": {
+                        "postCount": 121579,
+                        "coverImage": { "id": "1*23EURixTdGzquD9--plvmw.jpeg" }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "economics",
+                    "name": "Economics",
+                    "postCount": 46404,
+                    "metadata": {
+                        "postCount": 46404,
+                        "coverImage": { "id": "1*gjb0hF7VdnVfnvoG7x2Sjw.jpeg" }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "stock-market",
+                    "name": "Stock Market",
+                    "postCount": 18792,
+                    "metadata": {
+                        "postCount": 18792,
+                        "coverImage": {
+                            "id": "0*SBxyJMO2z5Vg436T",
+                            "originalWidth": 960,
+                            "originalHeight": 721,
+                            "isFeatured": true
+                        }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "economy",
+                    "name": "Economy",
+                    "postCount": 14796,
+                    "metadata": {
+                        "postCount": 14796,
+                        "coverImage": {
+                            "id": "1*3TedZSarIsQgn_ZCdFlSsg.jpeg",
+                            "originalWidth": 5568,
+                            "originalHeight": 3712,
+                            "isFeatured": true,
+                            "focusPercentX": 23,
+                            "focusPercentY": 49,
+                            "alt": "Donald Trump listens during the daily briefing on the novel coronavirus, COVID-19, at the White House on March 21, 2020."
+                        }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "employee-engagement",
+                    "name": "Employee Engagement",
+                    "postCount": 13728,
+                    "metadata": {
+                        "postCount": 13728,
+                        "coverImage": {
+                            "id": "1*jgrRJzmCMB-rE-vrLawHQg.jpeg",
+                            "originalWidth": 2000,
+                            "originalHeight": 541,
+                            "isFeatured": true
+                        }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "future-of-work",
+                    "name": "Future Of Work",
+                    "postCount": 10893,
+                    "metadata": {
+                        "postCount": 10893,
+                        "coverImage": {
+                            "id": "0*ahgZTMUf8hOVFh9N",
+                            "originalWidth": 6282,
+                            "originalHeight": 4188,
+                            "isFeatured": true,
+                            "alt": "An guy sit on his sofa to work at home",
+                            "unsplashPhotoId": "VvAcrVa56fc"
+                        }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "freelance",
+                    "name": "Freelance",
+                    "postCount": 7271,
+                    "metadata": {
+                        "postCount": 7271,
+                        "coverImage": {
+                            "id": "1*5kHmAGBIOFZzmeT1PPlAwg.jpeg",
+                            "originalWidth": 2000,
+                            "originalHeight": 1333,
+                            "isFeatured": true
+                        }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "covid19",
+                    "name": "Covid-19",
+                    "postCount": 1154,
+                    "metadata": {
+                        "postCount": 1154,
+                        "coverImage": {
+                            "id": "1*qJKWK5QQBXqCJri5BuVGpQ.jpeg",
+                            "originalWidth": 5184,
+                            "originalHeight": 3456,
+                            "isFeatured": true,
+                            "focusPercentX": 51,
+                            "focusPercentY": 56
+                        }
+                    },
+                    "type": "Tag"
+                },
+                {
+                    "slug": "inflation",
+                    "name": "Inflation",
+                    "postCount": 1035,
+                    "metadata": {
+                        "postCount": 1035,
+                        "coverImage": {
+                            "id": "1*_xaV2TUK7bCTKyNoGgoZ7w.jpeg",
+                            "originalWidth": 900,
+                            "originalHeight": 536,
+                            "isFeatured": true
+                        }
+                    },
+                    "type": "Tag"
+                }
+            ],
+            "featuredPostId": "",
+            "topWriterInTags": [],
+            "type": "UserMeta"
+        },
+        "userNavItemList": {
+            "userNavItems": [{
+                    "title": "Profile",
+                    "url": "https://medium.com/@OwenMc",
+                    "systemItem": { "systemType": 1 },
+                    "navType": "systemItem"
+                },
+                {
+                    "title": "Claps",
+                    "url": "https://medium.com/@OwenMc/has-recommended",
+                    "systemItem": { "systemType": 4 },
+                    "navType": "systemItem"
+                }
+            ]
+        },
+        "userNavActiveIndex": -1,
+        "profileTypeName": "latest",
+        "isStandaloneEditPage": false,
+        "references": {
+            "User": {
+                "b9427e490d49": {
+                    "userId": "b9427e490d49",
+                    "name": "Owen McCall",
+                    "username": "OwenMc",
+                    "createdAt": 1531233805409,
+                    "imageId": "2*85voGnlACTlIpxaWe_U1KA.png",
+                    "backgroundImageId": "",
+                    "bio": "Be healthy y’all",
+                    "twitterScreenName": "",
+                    "allowNotes": 1,
+                    "mediumMemberAt": 0,
+                    "isWriterProgramEnrolled": true,
+                    "isSuspended": false,
+                    "isMembershipTrialEligible": true,
+                    "type": "User"
+                }
+            },
+            "Post": {
+                "b006f285309c": {
+                    "id": "b006f285309c",
+                    "versionId": "4a11bde47336",
+                    "creatorId": "b9427e490d49",
+                    "homeCollectionId": "",
+                    "title": "Stimulus Packages, Stock Market Rebounds and More: Corona Virus Economics For the Rest of Us.",
+                    "detectedLanguage": "en",
+                    "latestVersion": "4a11bde47336",
+                    "latestPublishedVersion": "4a11bde47336",
+                    "hasUnpublishedEdits": false,
+                    "latestRev": 834,
+                    "createdAt": 1585471584787,
+                    "updatedAt": 1585501951372,
+                    "acceptedAt": 0,
+                    "firstPublishedAt": 1585486062972,
+                    "latestPublishedAt": 1585501951199,
+                    "vote": false,
+                    "experimentalCss": "",
+                    "displayAuthor": "",
+                    "content": {
+                        "subtitle": "As Covid-19 continues to wreak havoc on healthcare and economic systems around the world, people are turning to their governments for help…",
+                        "postDisplay": { "coverless": true }
+                    },
+                    "virtuals": {
+                        "allowNotes": true,
+                        "previewImage": {
+                            "imageId": "1*kBhClKiRN_d3167HKH6seA.jpeg",
+                            "filter": "",
+                            "backgroundSize": "",
+                            "originalWidth": 3371,
+                            "originalHeight": 4214,
+                            "strategy": "resample",
+                            "height": 0,
+                            "width": 0
+                        },
+                        "wordCount": 696,
+                        "imageCount": 3,
+                        "readingTime": 3.1764150943396228,
+                        "subtitle": "As Covid-19 continues to wreak havoc on healthcare and economic systems around the world, people are turning to their governments for help…",
+                        "userPostRelation": {
+                            "userId": "b9427e490d49",
+                            "postId": "b006f285309c",
+                            "readAt": 1585515241071,
+                            "readLaterAddedAt": 0,
+                            "votedAt": 0,
+                            "collaboratorAddedAt": 0,
+                            "notesAddedAt": 0,
+                            "subscribedAt": 0,
+                            "lastReadSectionName": "",
+                            "lastReadVersionId": "",
+                            "lastReadAt": 0,
+                            "lastReadParagraphName": "",
+                            "lastReadPercentage": 0,
+                            "viewedAt": 1585524146220,
+                            "presentedCountInResponseManagement": 0,
+                            "clapCount": 0,
+                            "seriesUpdateNotifsOptedInAt": 0,
+                            "queuedAt": 0,
+                            "seriesFirstViewedAt": 0,
+                            "presentedCountInStream": 4,
+                            "seriesLastViewedAt": 0,
+                            "audioProgressSec": 0
+                        },
+                        "usersBySocialRecommends": [],
+                        "noIndex": false,
+                        "recommends": 2,
+                        "isBookmarked": false,
+                        "tags": [{
+                                "slug": "covid19",
+                                "name": "Covid 19",
+                                "postCount": 0,
+                                "metadata": {
+                                    "postCount": 0,
+                                    "coverImage": {
+                                        "id": "0*8rUy9ZJMD7C-yISo.jpg",
+                                        "originalWidth": 1024,
+                                        "originalHeight": 576,
+                                        "isFeatured": true
+                                    }
+                                },
+                                "type": "Tag"
+                            },
+                            {
+                                "slug": "stock-market",
+                                "name": "Stock Market",
+                                "postCount": 18792,
+                                "metadata": {
+                                    "postCount": 18792,
+                                    "coverImage": {
+                                        "id": "0*SBxyJMO2z5Vg436T",
+                                        "originalWidth": 960,
+                                        "originalHeight": 721,
+                                        "isFeatured": true
+                                    }
+                                },
+                                "type": "Tag"
+                            },
+                            {
+                                "slug": "economics",
+                                "name": "Economics",
+                                "postCount": 46404,
+                                "metadata": {
+                                    "postCount": 46404,
+                                    "coverImage": { "id": "1*gjb0hF7VdnVfnvoG7x2Sjw.jpeg" }
+                                },
+                                "type": "Tag"
+                            },
+                            {
+                                "slug": "inflation",
+                                "name": "Inflation",
+                                "postCount": 1035,
+                                "metadata": {
+                                    "postCount": 1035,
+                                    "coverImage": {
+                                        "id": "1*_xaV2TUK7bCTKyNoGgoZ7w.jpeg",
+                                        "originalWidth": 900,
+                                        "originalHeight": 536,
+                                        "isFeatured": true
+                                    }
+                                },
+                                "type": "Tag"
+                            },
+                            {
+                                "slug": "economy",
+                                "name": "Economy",
+                                "postCount": 14796,
+                                "metadata": {
+                                    "postCount": 14796,
+                                    "coverImage": {
+                                        "id": "1*3TedZSarIsQgn_ZCdFlSsg.jpeg",
+                                        "originalWidth": 5568,
+                                        "originalHeight": 3712,
+                                        "isFeatured": true,
+                                        "focusPercentX": 23,
+                                        "focusPercentY": 49,
+                                        "alt": "Donald Trump listens during the daily briefing on the novel coronavirus, COVID-19, at the White House on March 21, 2020."
+                                    }
+                                },
+                                "type": "Tag"
+                            }
+                        ],
+                        "socialRecommendsCount": 0,
+                        "responsesCreatedCount": 0,
+                        "links": {
+                            "entries": [{
+                                    "url": "https://www.federalreserve.gov/monetarypolicy/reservereq.htm",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://www.marketwatch.com/story/a-pause-after-the-plunge-us-stock-futures-rise-suggesting-tuesday-gains-2020-02-24",
+                                    "alts": [{
+                                        "type": 1,
+                                        "url": "https://cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/8E3F6EC0-576A-11EA-BF64-5AC3A6D77C0D"
+                                    }],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://www.dallasnews.com/business/economy/2020/03/02/dow-surge-is-the-biggest-ever-point-gain/",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://www.cnbc.com/2020/02/27/dow-futures-fall-100-points-after-another-massive-rout-amid-coronavirus-fears.html",
+                                    "alts": [{
+                                        "type": 1,
+                                        "url": "https://cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/27/dow-futures-fall-100-points-after-another-massive-rout-amid-coronavirus-fears.html"
+                                    }],
+                                    "httpStatus": 200
+                                }
+                            ],
+                            "version": "0.3",
+                            "generatedAt": 1585501952492
+                        },
+                        "isLockedPreviewOnly": false,
+                        "metaDescription": "",
+                        "totalClapCount": 61,
+                        "sectionCount": 1,
+                        "readingList": 0,
+                        "topics": [{
+                            "topicId": "40c8e34e04ce",
+                            "slug": "economy",
+                            "createdAt": 1493947210893,
+                            "deletedAt": 0,
+                            "image": {
+                                "id": "1*X8Q-l-JZddGhTLoucGJVyw@2x.jpeg",
+                                "originalWidth": 4928,
+                                "originalHeight": 3264
+                            },
+                            "name": "Economy",
+                            "description": "Follow the money.",
+                            "relatedTopics": [],
+                            "visibility": 1,
+                            "relatedTags": [],
+                            "relatedTopicIds": [],
+                            "type": "Topic"
+                        }]
+                    },
+                    "coverless": true,
+                    "slug": "stimulus-packages-stock-market-rebounds-and-more-corona-virus-economics-for-the-rest-of-us",
+                    "translationSourcePostId": "",
+                    "translationSourceCreatorId": "",
+                    "isApprovedTranslation": false,
+                    "inResponseToPostId": "",
+                    "inResponseToRemovedAt": 0,
+                    "isTitleSynthesized": false,
+                    "allowResponses": true,
+                    "importedUrl": "",
+                    "importedPublishedAt": 0,
+                    "visibility": 0,
+                    "uniqueSlug": "stimulus-packages-stock-market-rebounds-and-more-corona-virus-economics-for-the-rest-of-us-b006f285309c",
+                    "previewContent": {
+                        "bodyModel": {
+                            "paragraphs": [{
+                                    "name": "previewImage",
+                                    "type": 4,
+                                    "text": "",
+                                    "layout": 10,
+                                    "metadata": {
+                                        "id": "1*kBhClKiRN_d3167HKH6seA.jpeg",
+                                        "originalWidth": 3371,
+                                        "originalHeight": 4214,
+                                        "isFeatured": true
+                                    }
+                                },
+                                {
+                                    "name": "deb8",
+                                    "type": 3,
+                                    "text": "Stimulus Packages, Stock Market Rebounds and More: Corona Virus Economics For the Rest of Us.",
+                                    "markups": [],
+                                    "alignment": 1
+                                }
+                            ],
+                            "sections": [{ "startIndex": 0 }]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "As Covid-19 continues to wreak havoc on healthcare and economic systems around the world, people are turning to their governments for help…"
+                    },
+                    "license": 0,
+                    "inResponseToMediaResourceId": "",
+                    "canonicalUrl": "",
+                    "approvedHomeCollectionId": "",
+                    "newsletterId": "",
+                    "webCanonicalUrl": "",
+                    "mediumUrl": "",
+                    "migrationId": "",
+                    "notifyFollowers": true,
+                    "notifyTwitter": false,
+                    "notifyFacebook": false,
+                    "responseHiddenOnParentPostAt": 0,
+                    "isSeries": false,
+                    "isSubscriptionLocked": false,
+                    "seriesLastAppendedAt": 0,
+                    "audioVersionDurationSec": 0,
+                    "sequenceId": "",
+                    "isEligibleForRevenue": false,
+                    "isBlockedFromHightower": false,
+                    "deletedAt": 0,
+                    "lockedPostSource": 0,
+                    "hightowerMinimumGuaranteeStartsAt": 0,
+                    "hightowerMinimumGuaranteeEndsAt": 0,
+                    "featureLockRequestAcceptedAt": 0,
+                    "mongerRequestType": 1,
+                    "layerCake": 0,
+                    "socialTitle": "",
+                    "socialDek": "",
+                    "editorialPreviewTitle": "",
+                    "editorialPreviewDek": "",
+                    "curationEligibleAt": 1585486062079,
+                    "isProxyPost": false,
+                    "proxyPostFaviconUrl": "",
+                    "proxyPostProviderName": "",
+                    "proxyPostType": 0,
+                    "isSuspended": false,
+                    "isLimitedState": false,
+                    "seoTitle": "",
+                    "previewContent2": {
+                        "bodyModel": {
+                            "paragraphs": [{
+                                    "name": "deb8",
+                                    "type": 3,
+                                    "text": "Stimulus Packages, Stock Market Rebounds and More: Corona Virus Economics For the Rest of Us.",
+                                    "markups": []
+                                },
+                                {
+                                    "name": "51db",
+                                    "type": 4,
+                                    "text": "",
+                                    "markups": [],
+                                    "layout": 1,
+                                    "metadata": {
+                                        "id": "1*kBhClKiRN_d3167HKH6seA.jpeg",
+                                        "originalWidth": 3371,
+                                        "originalHeight": 4214,
+                                        "isFeatured": true
+                                    }
+                                },
+                                {
+                                    "name": "115f",
+                                    "type": 11,
+                                    "text": "Rather listen than read? I’ve got you covered.",
+                                    "markups": [],
+                                    "layout": 1,
+                                    "iframe": {
+                                        "mediaResourceId": "74aeeccb72ab1bb82652c2c8e215280d",
+                                        "iframeWidth": 800,
+                                        "iframeHeight": 166,
+                                        "thumbnailUrl": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-ysb73G3kSfDUhzz5-EQ1usg-t500x500.jpg&key=a19fcc184b9711e1b4764040d3dc5c07"
+                                    }
+                                },
+                                {
+                                    "name": "906a",
+                                    "type": 1,
+                                    "text": "As Covid-19 continues to wreak havoc on healthcare and economic systems around the world, people are turning to their governments for help during these trying times. While stimulus packages on the individual level still generally exist in the promise-realm, the corporate world is set to receive a series of trillion-dollar capital injections. Nothing new. Or is it? In reality, what we’ve witnessed over the last few weeks is nothing short of incredible.",
+                                    "markups": []
+                                }
+                            ],
+                            "sections": [{ "startIndex": 0 }]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "As Covid-19 continues to wreak havoc on healthcare and economic systems around the world, people are turning to their governments for help…"
+                    },
+                    "cardType": 0,
+                    "isDistributionAlertDismissed": true,
+                    "isShortform": false,
+                    "shortformType": 0,
+                    "type": "Post"
+                },
+                "5d9ce0c38859": {
+                    "id": "5d9ce0c38859",
+                    "versionId": "72a834382d70",
+                    "creatorId": "b9427e490d49",
+                    "homeCollectionId": "3c350638cd7d",
+                    "title": "The World of Work is Changing and You Should be Too",
+                    "detectedLanguage": "en",
+                    "latestVersion": "72a834382d70",
+                    "latestPublishedVersion": "72a834382d70",
+                    "hasUnpublishedEdits": false,
+                    "latestRev": 188,
+                    "createdAt": 1536571186531,
+                    "updatedAt": 1585486301996,
+                    "acceptedAt": 0,
+                    "firstPublishedAt": 1536657931323,
+                    "latestPublishedAt": 1585486301714,
+                    "vote": false,
+                    "experimentalCss": "",
+                    "displayAuthor": "",
+                    "content": {
+                        "subtitle": "Too often when people describe their jobs or careers the positives come equipped with extreme caveats- e.g. I like the content but I’m…",
+                        "postDisplay": { "coverless": true }
+                    },
+                    "virtuals": {
+                        "statusForCollection": "APPROVED",
+                        "allowNotes": true,
+                        "previewImage": {
+                            "imageId": "0*JqI5tF40Xz0w_iB5",
+                            "filter": "",
+                            "backgroundSize": "",
+                            "originalWidth": 444,
+                            "originalHeight": 296,
+                            "strategy": "resample",
+                            "height": 0,
+                            "width": 0
+                        },
+                        "wordCount": 445,
+                        "imageCount": 3,
+                        "readingTime": 2.229245283018868,
+                        "subtitle": "Too often when people describe their jobs or careers the positives come equipped with extreme caveats- e.g. I like the content but I’m…",
+                        "userPostRelation": {
+                            "userId": "b9427e490d49",
+                            "postId": "5d9ce0c38859",
+                            "readAt": 1585486301825,
+                            "readLaterAddedAt": 0,
+                            "votedAt": 0,
+                            "collaboratorAddedAt": 0,
+                            "notesAddedAt": 0,
+                            "subscribedAt": 0,
+                            "lastReadSectionName": "6cfc",
+                            "lastReadVersionId": "c9cdcb241a7f",
+                            "lastReadAt": 1545393921943,
+                            "lastReadParagraphName": "532f",
+                            "lastReadPercentage": 0.39,
+                            "viewedAt": 1585486308783,
+                            "presentedCountInResponseManagement": 0,
+                            "clapCount": 0,
+                            "seriesUpdateNotifsOptedInAt": 0,
+                            "queuedAt": 0,
+                            "seriesFirstViewedAt": 0,
+                            "presentedCountInStream": 21,
+                            "seriesLastViewedAt": 0,
+                            "audioProgressSec": 0
+                        },
+                        "publishedInCount": 1,
+                        "usersBySocialRecommends": [],
+                        "noIndex": false,
+                        "recommends": 9,
+                        "isBookmarked": false,
+                        "tags": [{
+                                "slug": "employee-engagement",
+                                "name": "Employee Engagement",
+                                "postCount": 13728,
+                                "metadata": {
+                                    "postCount": 13728,
+                                    "coverImage": {
+                                        "id": "1*jgrRJzmCMB-rE-vrLawHQg.jpeg",
+                                        "originalWidth": 2000,
+                                        "originalHeight": 541,
+                                        "isFeatured": true
+                                    }
+                                },
+                                "type": "Tag"
+                            },
+                            {
+                                "slug": "future-of-work",
+                                "name": "Future Of Work",
+                                "postCount": 10893,
+                                "metadata": {
+                                    "postCount": 10893,
+                                    "coverImage": {
+                                        "id": "0*ahgZTMUf8hOVFh9N",
+                                        "originalWidth": 6282,
+                                        "originalHeight": 4188,
+                                        "isFeatured": true,
+                                        "alt": "An guy sit on his sofa to work at home",
+                                        "unsplashPhotoId": "VvAcrVa56fc"
+                                    }
+                                },
+                                "type": "Tag"
+                            },
+                            {
+                                "slug": "freelance",
+                                "name": "Freelance",
+                                "postCount": 7271,
+                                "metadata": {
+                                    "postCount": 7271,
+                                    "coverImage": {
+                                        "id": "1*5kHmAGBIOFZzmeT1PPlAwg.jpeg",
+                                        "originalWidth": 2000,
+                                        "originalHeight": 1333,
+                                        "isFeatured": true
+                                    }
+                                },
+                                "type": "Tag"
+                            },
+                            {
+                                "slug": "productivity",
+                                "name": "Productivity",
+                                "postCount": 121579,
+                                "metadata": {
+                                    "postCount": 121579,
+                                    "coverImage": { "id": "1*23EURixTdGzquD9--plvmw.jpeg" }
+                                },
+                                "type": "Tag"
+                            },
+                            {
+                                "slug": "blockchain",
+                                "name": "Blockchain",
+                                "postCount": 364875,
+                                "metadata": {
+                                    "postCount": 364875,
+                                    "coverImage": {
+                                        "id": "1*ls2kI_Bn6HyV3pD6SqGmJA.jpeg",
+                                        "originalWidth": 2000,
+                                        "originalHeight": 666,
+                                        "isFeatured": true
+                                    }
+                                },
+                                "type": "Tag"
+                            }
+                        ],
+                        "socialRecommendsCount": 0,
+                        "responsesCreatedCount": 0,
+                        "links": {
+                            "entries": [{
+                                    "url": "https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://unsplash.com/photos/VhuRLNrI-v4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://unsplash.com/photos/WHWYBmtn3_0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://www.linkedin.com/company/covee-network/",
+                                    "alts": [],
+                                    "httpStatus": 999
+                                },
+                                {
+                                    "url": "https://unsplash.com/search/photos/bored?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "http://bit.ly/covee-discord",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://bitcointalk.org/index.php?topic=4687484.0",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://news.gallup.com/reports/199961/7.aspx",
+                                    "alts": [],
+                                    "httpStatus": 404
+                                },
+                                {
+                                    "url": "https://www.instagram.com/coveenetwork/",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://github.com/CoveeNetwork",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://www.forbes.com/sites/forbescoachescouncil/2017/10/26/five-things-millennial-workers-want-more-than-a-fat-paycheck/#6fe1594415a7",
+                                    "alts": [{
+                                        "type": 1,
+                                        "url": "https://cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2017/10/26/five-things-millennial-workers-want-more-than-a-fat-paycheck/amp/"
+                                    }],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://www.forbes.com/sites/kaviguppta/2017/03/08/gallup-american-workers-are-unengaged-and-looking-elsewhere/#201f56d13e8c",
+                                    "alts": [{
+                                        "type": 1,
+                                        "url": "https://cdn.ampproject.org/c/s/www.forbes.com/sites/kaviguppta/2017/03/08/gallup-american-workers-are-unengaged-and-looking-elsewhere/amp/"
+                                    }],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://covee.network/",
+                                    "alts": [],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://twitter.com/CoveeNetwork",
+                                    "alts": [{
+                                            "type": 2,
+                                            "url": "twitter://user?screen_name=CoveeNetwork"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "twitter://user?screen_name=CoveeNetwork"
+                                        }
+                                    ],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://t.me/coveenetwork",
+                                    "alts": [
+                                        { "type": 2, "url": "tg://resolve?domain=coveenetwork" },
+                                        { "type": 3, "url": "tg://resolve?domain=coveenetwork" }
+                                    ],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://www.youtube.com/channel/UCWkWbxNPGM7ufKuSn0ma4Lw",
+                                    "alts": [{
+                                            "type": 2,
+                                            "url": "vnd.youtube://www.youtube.com/channel/UCWkWbxNPGM7ufKuSn0ma4Lw"
+                                        },
+                                        {
+                                            "type": 3,
+                                            "url": "https://www.youtube.com/channel/UCWkWbxNPGM7ufKuSn0ma4Lw?feature=applinks"
+                                        }
+                                    ],
+                                    "httpStatus": 200
+                                },
+                                {
+                                    "url": "https://www.reddit.com/r/covee",
+                                    "alts": [
+                                        { "type": 2, "url": "reddit://www.reddit.com/r/covee/" }
+                                    ],
+                                    "httpStatus": 200
+                                }
+                            ],
+                            "version": "0.3",
+                            "generatedAt": 1585486302625
+                        },
+                        "isLockedPreviewOnly": false,
+                        "metaDescription": "",
+                        "totalClapCount": 275,
+                        "sectionCount": 1,
+                        "readingList": 0,
+                        "topics": []
+                    },
+                    "coverless": true,
+                    "slug": "the-world-of-work-is-changing-and-you-should-too",
+                    "translationSourcePostId": "",
+                    "translationSourceCreatorId": "",
+                    "isApprovedTranslation": false,
+                    "inResponseToPostId": "",
+                    "inResponseToRemovedAt": 0,
+                    "isTitleSynthesized": true,
+                    "allowResponses": true,
+                    "importedUrl": "",
+                    "importedPublishedAt": 0,
+                    "visibility": 0,
+                    "uniqueSlug": "the-world-of-work-is-changing-and-you-should-too-5d9ce0c38859",
+                    "previewContent": {
+                        "bodyModel": {
+                            "paragraphs": [{
+                                    "name": "previewImage",
+                                    "type": 4,
+                                    "text": "",
+                                    "layout": 10,
+                                    "metadata": {
+                                        "id": "0*JqI5tF40Xz0w_iB5",
+                                        "originalWidth": 444,
+                                        "originalHeight": 296,
+                                        "isFeatured": true
+                                    }
+                                },
+                                {
+                                    "name": "be7f",
+                                    "type": 3,
+                                    "text": "The World of Work is Changing and You Should be Too",
+                                    "markups": [],
+                                    "alignment": 1
+                                }
+                            ],
+                            "sections": [{ "startIndex": 0 }]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "Too often when people describe their jobs or careers the positives come equipped with extreme caveats- e.g. I like the content but I’m…"
+                    },
+                    "license": 0,
+                    "inResponseToMediaResourceId": "",
+                    "canonicalUrl": "",
+                    "approvedHomeCollectionId": "3c350638cd7d",
+                    "newsletterId": "",
+                    "webCanonicalUrl": "",
+                    "mediumUrl": "",
+                    "migrationId": "",
+                    "notifyFollowers": true,
+                    "notifyTwitter": false,
+                    "notifyFacebook": false,
+                    "responseHiddenOnParentPostAt": 0,
+                    "isSeries": false,
+                    "isSubscriptionLocked": false,
+                    "seriesLastAppendedAt": 0,
+                    "audioVersionDurationSec": 0,
+                    "sequenceId": "",
+                    "isEligibleForRevenue": false,
+                    "isBlockedFromHightower": false,
+                    "deletedAt": 0,
+                    "lockedPostSource": 0,
+                    "hightowerMinimumGuaranteeStartsAt": 0,
+                    "hightowerMinimumGuaranteeEndsAt": 0,
+                    "featureLockRequestAcceptedAt": 0,
+                    "mongerRequestType": 1,
+                    "layerCake": 0,
+                    "socialTitle": "",
+                    "socialDek": "",
+                    "editorialPreviewTitle": "",
+                    "editorialPreviewDek": "",
+                    "curationEligibleAt": 0,
+                    "isProxyPost": false,
+                    "proxyPostFaviconUrl": "",
+                    "proxyPostProviderName": "",
+                    "proxyPostType": 0,
+                    "isSuspended": false,
+                    "isLimitedState": false,
+                    "seoTitle": "",
+                    "previewContent2": {
+                        "bodyModel": {
+                            "paragraphs": [{
+                                    "name": "be7f",
+                                    "type": 3,
+                                    "text": "The World of Work is Changing and You Should be Too",
+                                    "markups": []
+                                },
+                                {
+                                    "name": "4068",
+                                    "type": 1,
+                                    "text": "Too often when people describe their jobs or careers the positives come equipped with extreme caveats- e.g. I like the content but I’m stuck with no flexibility; my colleagues are great but I don’t feel like my work has a purpose; I’m knocking these projects out of the park, yet my boss won’t quit micromanaging me, etc.",
+                                    "markups": [{ "type": 1, "start": 57, "end": 101 }]
+                                },
+                                {
+                                    "name": "2616",
+                                    "type": 1,
+                                    "text": "The reality is that these ‘yea, buts’ can overshadow the positive attributes and lead to dissatisfaction in the workplace, eating away at the sanity and sanctity of workers and in turn reducing the productivity of firms.",
+                                    "markups": [{
+                                            "type": 3,
+                                            "start": 185,
+                                            "end": 219,
+                                            "href": "https://news.gallup.com/reports/199961/7.aspx",
+                                            "title": "",
+                                            "rel": "",
+                                            "anchorType": 0
+                                        },
+                                        { "type": 1, "start": 80, "end": 121 }
+                                    ]
+                                }
+                            ],
+                            "sections": [{ "startIndex": 0 }]
+                        },
+                        "isFullContent": false,
+                        "subtitle": "Too often when people describe their jobs or careers the positives come equipped with extreme caveats- e.g. I like the content but I’m…"
+                    },
+                    "cardType": 0,
+                    "isDistributionAlertDismissed": true,
+                    "isShortform": false,
+                    "shortformType": 0,
+                    "type": "Post"
+                }
+            },
+            "Collection": {
+                "3c350638cd7d": {
+                    "id": "3c350638cd7d",
+                    "name": "Covee Network",
+                    "slug": "covee-network",
+                    "tags": [
+                        "BLOCKCHAIN",
+                        "FUTURE OF WORK",
+                        "TEAM COLLABORATION",
+                        "TECH",
+                        "REMOTE WORKING"
+                    ],
+                    "creatorId": "ed695e17e95f",
+                    "description": "The trusted platform for knowledge workers",
+                    "shortDescription": "The trusted platform for knowledge workers",
+                    "image": {
+                        "imageId": "1*QT_UmfnxqbQT_hXbdzwIDg.png",
+                        "filter": "",
+                        "backgroundSize": "",
+                        "originalWidth": 1400,
+                        "originalHeight": 800,
+                        "strategy": "resample",
+                        "height": 0,
+                        "width": 0
+                    },
+                    "metadata": { "followerCount": 406, "activeAt": 1538037726059 },
+                    "virtuals": {
+                        "permissions": {
+                            "canPublish": true,
+                            "canPublishAll": true,
+                            "canRepublish": true,
+                            "canRemove": true,
+                            "canManageAll": true,
+                            "canSubmit": true,
+                            "canEditPosts": true,
+                            "canAddWriters": true,
+                            "canViewStats": true,
+                            "canSendNewsletter": true,
+                            "canViewLockedPosts": true,
+                            "canViewCloaked": true,
+                            "canEditOwnPosts": true,
+                            "canBeAssignedAuthor": true,
+                            "canEnrollInHightower": false,
+                            "canLockPostsForMediumMembers": false,
+                            "canLockOwnPostsForMediumMembers": false,
+                            "canViewNewsletterV2Stats": true,
+                            "canCreateNewsletterV3": true
+                        },
+                        "isSubscribed": false,
+                        "isEnrolledInHightower": false,
+                        "isEligibleForHightower": false,
+                        "isSubscribedToCollectionEmails": false,
+                        "isMuted": false,
+                        "canToggleEmail": true
+                    },
+                    "logo": {
+                        "imageId": "1*QT_UmfnxqbQT_hXbdzwIDg.png",
+                        "filter": "",
+                        "backgroundSize": "",
+                        "originalWidth": 1400,
+                        "originalHeight": 800,
+                        "strategy": "resample",
+                        "height": 0,
+                        "width": 0
+                    },
+                    "twitterUsername": "CoveeNetwork",
+                    "publicEmail": "info@covee.network",
+                    "sections": [{
+                            "type": 2,
+                            "collectionHeaderMetadata": {
+                                "title": "Covee Network",
+                                "description": "The trusted platform for knowledge workers",
+                                "backgroundImage": {
+                                    "id": "1*yPvboR-t75lL8t0jiml9HA.png",
+                                    "originalWidth": 1410,
+                                    "originalHeight": 1033
+                                },
+                                "logoImage": {
+                                    "id": "1*Y804fYuY-BWhPHmnV3ABlA@2x.jpeg",
+                                    "originalWidth": 680,
+                                    "originalHeight": 763,
+                                    "alt": "Covee Network"
+                                },
+                                "alignment": 2,
+                                "layout": 6
+                            }
+                        },
+                        {
+                            "type": 1,
+                            "postListMetadata": {
+                                "source": 1,
+                                "layout": 4,
+                                "number": 7,
+                                "postIds": []
+                            }
+                        }
+                    ],
+                    "favicon": {
+                        "imageId": "",
+                        "filter": "",
+                        "backgroundSize": "",
+                        "originalWidth": 0,
+                        "originalHeight": 0,
+                        "strategy": "resample",
+                        "height": 0,
+                        "width": 0
+                    },
+                    "colorPalette": {
+                        "defaultBackgroundSpectrum": {
+                            "colorPoints": [
+                                { "color": "#FF02B875", "point": 0 },
+                                { "color": "#FF00AB6B", "point": 0.1 },
+                                { "color": "#FF1C9963", "point": 0.2 },
+                                { "color": "#FF092E20", "point": 1 }
+                            ],
+                            "backgroundColor": "#FFFFFFFF"
+                        },
+                        "highlightSpectrum": {
+                            "colorPoints": [
+                                { "color": "#FFFFFFFF", "point": 0 },
+                                { "color": "#FFE9FDF0", "point": 0.1 },
+                                { "color": "#FFE2FAEE", "point": 0.2 },
+                                { "color": "#FFADFFCF", "point": 0.6 },
+                                { "color": "#FF7DFFB3", "point": 1 }
+                            ],
+                            "backgroundColor": "#FFFFFFFF"
+                        }
+                    },
+                    "navItems": [],
+                    "colorBehavior": 1,
+                    "instantArticlesState": 0,
+                    "acceleratedMobilePagesState": 0,
+                    "ampLogo": {
+                        "imageId": "",
+                        "filter": "",
+                        "backgroundSize": "",
+                        "originalWidth": 0,
+                        "originalHeight": 0,
+                        "strategy": "resample",
+                        "height": 0,
+                        "width": 0
+                    },
+                    "header": {
+                        "title": "Covee Network",
+                        "description": "The trusted platform for knowledge workers",
+                        "backgroundImage": {
+                            "id": "1*yPvboR-t75lL8t0jiml9HA.png",
+                            "originalWidth": 1410,
+                            "originalHeight": 1033
+                        },
+                        "logoImage": {
+                            "id": "1*Y804fYuY-BWhPHmnV3ABlA@2x.jpeg",
+                            "originalWidth": 680,
+                            "originalHeight": 763,
+                            "alt": "Covee Network"
+                        },
+                        "alignment": 2,
+                        "layout": 6
+                    },
+                    "subscriberCount": 406,
+                    "tagline": "The trusted platform for knowledge workers",
+                    "type": "Collection"
+                }
+            },
+            "Social": {
+                "b9427e490d49": {
+                    "userId": "b9427e490d49",
+                    "targetUserId": "b9427e490d49",
+                    "type": "Social"
+                }
+            },
+            "SocialStats": {
+                "b9427e490d49": {
+                    "userId": "b9427e490d49",
+                    "usersFollowedCount": 2,
+                    "usersFollowedByCount": 8,
+                    "type": "SocialStats"
+                }
+            }
+        },
+        "paging": {
+            "path": "https://medium.com/_/api/users/b9427e490d49/profile/stream",
+            "next": {
+                "limit": 10,
+                "to": "1536657931323",
+                "source": "latest",
+                "ignoredIds": [],
+                "page": 1
+            }
+        }
+    },
+    "v": 3,
+    "b": "40513-c05e326"
+}
