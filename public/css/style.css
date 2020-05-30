@@ -79,9 +79,9 @@ body {
     font-weight: bold;
     text-align: center;
     color: #ffffff;
-    width: 200px;
-    padding: 19px 0;
-    margin: 60px 0 0;
+    width: 180px;
+    padding: 12px 0;
+    margin: 60px 0 50px 10px;
 }
 
 .fold-one .owen-placeholder {
